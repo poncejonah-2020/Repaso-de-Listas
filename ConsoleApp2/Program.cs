@@ -29,6 +29,20 @@ namespace listasRepaso
             {
                 Console.Write(numero);///Impresion por pantalla de la lista
             }
+            Console.ReadLine();
+
+
+            List<String> nombres = new List<string>();///Declaro una lista de String
+            nombres.Add("jonah");           ///Agrego un elemento en la lista
+            Console.WriteLine(nombres[0]);  ///Impresion por pantalla
+            Console.ReadLine();
+
+            String nombre = nombres[0];///Modifico un elemento especifico de la lista
+            nombres[0] = "Han";
+            Console.WriteLine(nombres[0]);  ///Impresion por pantalla
+            Console.ReadLine();
+
+
         }
     }
 }
