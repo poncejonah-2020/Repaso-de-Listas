@@ -34,6 +34,9 @@ namespace listasRepaso
 
             List<String> nombres = new List<string>();///Declaro una lista de String
             nombres.Add("jonah");           ///Agrego un elemento en la lista
+            nombres.Add("matias");
+            nombres.Add("ivan");
+            nombres.Add("lucia");
             Console.WriteLine(nombres[0]);  ///Impresion por pantalla
             Console.ReadLine();
 
@@ -43,6 +46,14 @@ namespace listasRepaso
             Console.ReadLine();
 
 
+            nombres.Remove("Han");      ///Elimino por valor
+
+            nombres.RemoveAt(1);        ///Elimino por indice
+
+            foreach (string Nombre in nombres)///Iteracion de la lista
+            {
+                Console.WriteLine(Nombre);///Impresion por pantalla de la lista
+            }
         }
     }
 }
