@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jona\\source\\repos\\poncejonah-2020\\Repaso-de-Listas\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "C:\\Users\\Jona\\Source\\Repos\\poncejonah-2020\\Repaso-de-Listas\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jona\\source\\repos\\poncejonah-2020\\Repaso-de-Listas\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "C:\\Users\\Jona\\Source\\Repos\\poncejonah-2020\\Repaso-de-Listas\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jona\\source\\repos\\poncejonah-2020\\Repaso-de-Listas\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\Jona\\Source\\Repos\\poncejonah-2020\\Repaso-de-Listas\\ConsoleApp2\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "C:\\Users\\Jona\\source\\repos\\poncejonah-2020\\Repaso-de-Listas\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectPath": "C:\\Users\\Jona\\Source\\Repos\\poncejonah-2020\\Repaso-de-Listas\\ConsoleApp2\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\Jona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jona\\source\\repos\\poncejonah-2020\\Repaso-de-Listas\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\Jona\\Source\\Repos\\poncejonah-2020\\Repaso-de-Listas\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jona\\AppData\\Roaming\\NuGet\\NuGet.Config",

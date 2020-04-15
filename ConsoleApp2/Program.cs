@@ -40,6 +40,7 @@ namespace listasRepaso
             Console.WriteLine(nombres[0]);  ///Impresion por pantalla
             Console.ReadLine();
 
+            nombres.Insert(2, "yesica");
             String nombre = nombres[0];///Modifico un elemento especifico de la lista
             nombres[0] = "Han";
             Console.WriteLine(nombres[0]);  ///Impresion por pantalla
